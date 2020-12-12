@@ -9,6 +9,6 @@ module.exports = {
     }
   },
   // dbConnstring: 'mongodb+srv://admin:123@ds137760.mlab.com:37760/code4share',
-  dbConnstring: 'mongodb+srv://mayurB:mayur12345@cluster0.lxieb.mongodb.net/code4share?retryWrites=true&w=majority',
+  dbConnstring: 'mongodb+srv://mayur:mayur123456@cluster0.lxieb.mongodb.net/code4share?retryWrites=true&w=majority',
   sessionKey: 'HaloCode4Share'
 }
